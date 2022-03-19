@@ -1,0 +1,27 @@
+.header-nav-link{
+    color:rgb(209, 158, 17) !important;
+    margin:2%;
+}
+
+.other-header-links{
+    margin:2%;
+    white-space: nowrap;
+}
+
+.other-header-links:hover{
+    color:rgb(209, 158, 17) !important;
+}
+
+.header-button{
+    outline: none;
+    border:none;
+    height:40px;
+    border-radius: 6px;
+    padding:8px;
+    padding-left:20px;
+    padding-right:20px;
+    background-color: rgb(231, 189, 74) !important;
+    margin:2%;
+    text-align: center;
+    justify-content: center;
+}

@@ -1,0 +1,20 @@
+.page-quote{
+    margin-top: 2%;
+    font-family: 'Montserrat', 'sans-serif';
+    margin-left: 1%;
+}
+
+.check-icon{
+    color:green;
+    margin-left: 1%;
+}
+
+@media screen and (max-width: 600px) {
+    .page-quote{
+        margin-top: 2%;
+        font-family: 'Montserrat', 'sans-serif';
+        font-size: 20px;
+        font-weight: 800;
+    }
+}
+

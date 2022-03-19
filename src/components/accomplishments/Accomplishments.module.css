@@ -1,0 +1,31 @@
+.accomplishments{
+    background-color: white;
+    text-align: center;
+    margin-top: 5%;
+    font-family: 'Montserrat', 'sans-serif';
+    justify-content: center;
+}
+
+li{
+  padding:2%;
+  width: 40%;
+  list-style: none;
+  background-color: white;
+  font-family: 'Montserrat', 'sans-serif'; 
+  font-size:20px;
+  margin-top:30px;
+  border-left: 5px green solid;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 1px 1px 8px 2px grey;
+}
+
+ul{
+    top:-100px;
+    
+}
+
+.image{
+    height:600px;
+    width:100%;
+}
