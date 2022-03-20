@@ -3,18 +3,16 @@
 }
 
 .contact-content{
+    display: inline-block;
     width:100%;
-    text-align: center;
     background-color: black;
-    height:100vh;
     margin-top: -2rem;
+    padding-bottom: 5%;
 }
 
 .social-panel{
     width: 100%;
-    margin: auto;
-    margin-top: 10%;
-    
+    margin-top: 2%;
 }
 
 @media only screen and (min-width:800px){
@@ -35,11 +33,18 @@
 }
 
 .icon-style{
-    font-size: 30px;
-    color : rgb(194, 147, 17);
+    font-size: 25px;
+    color : rgb(231, 174, 16);
     margin:20px;
 }
 
-.contact-header{
-    color:rgb(114, 109, 109)
+.icon-style:hover{
+    font-size: 25px;
+    color : rgb(255, 204, 64);
+    margin:20px;
+}
+
+.contact-description{
+    color : rgb(179, 179, 179);
+    margin-top:2%;
 }

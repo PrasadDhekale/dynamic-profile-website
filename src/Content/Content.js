@@ -36,24 +36,54 @@ let content = {
     "accomplishments" : {
         "header" : "Accomplishments",
         "description" : {text:"", isEnabled:false},
+        "isEnabled" : false,
         "list" : [
             {
                 "id":"1",
                 "text":"Some accomplishment here Some accomplishment here Some accomplishment here"
             },
             {
-                "id":"1",
+                "id":"2",
                 "text":"Some accomplishment here"
             },
             {
-                "id":"1",
+                "id":"3",
                 "text":"Some accomplishment here"
             },
             {
-                "id":"1",
+                "id":"4",
                 "text":"Some accomplishment here"
             }
 
+        ]
+    },
+    "services" : {
+        "isEnabled" : true,
+        "list" : [
+            {
+                "id":"1",
+                "text":"Litigation",
+                "backgroundcolor":"#8d1b54",
+                "color" : "white"
+            },
+            {
+                "id":"2",
+                "text":"Counselling",
+                "backgroundcolor":"#548c8d",
+                "color" : "white"
+            },
+            {
+                "id":"3",
+                "text":"Service",
+                "backgroundcolor":"#353441",
+                "color" : "white"
+            },
+            {
+                "id":"4",
+                "text":"Service",
+                "backgroundcolor":"brown",
+                "color" : "white"
+            }
         ]
     }
 }
