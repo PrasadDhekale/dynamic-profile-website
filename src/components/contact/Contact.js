@@ -30,7 +30,6 @@ function Contact(props) {
                         <a className={classes['icon-style']} href="mailto:shwetapandey3333@gmail.com"><SiGmail/></a>
                     </div>
                    
-                    <p style={{ color: "grey", marginTop: "5rem" }}>created by Prasad. 2021</p>
                 </div>
             </div>
         </React.Fragment>

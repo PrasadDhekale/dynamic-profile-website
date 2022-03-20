@@ -43,6 +43,15 @@
         font-family: 'Montserrat', 'sans-serif';
         margin-bottom:10%;
     }
+
+    .about{
+        background-color: white;
+        text-align: center;
+        margin-top: 8%;
+        font-family: 'Montserrat', 'sans-serif';
+        justify-content: center;
+    }
+
   }
 
 
