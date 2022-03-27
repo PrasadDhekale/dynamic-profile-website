@@ -1,6 +1,5 @@
 import classes from "./Accomplishments.module.css"
 import content from "./../../Content/Content.js"
-import law from "./../../images/law4.png"
 const Accomplishments = (props) => {
 
     const colorlist = ["rgb(231, 189, 74)", "brown", "rgb(231, 189, 74)", "brown"];
@@ -17,7 +16,6 @@ const Accomplishments = (props) => {
             <ul>
                 {listitems}
             </ul>
-            <img className={classes["image"]} src={law}></img>
         </div>
     )
 }

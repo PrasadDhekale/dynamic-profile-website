@@ -1,5 +1,5 @@
 .competencies{
-    padding-top:5%;
+    padding-top:6%;
     justify-content: center;
     text-align: center;
     background-color: whitesmoke;
@@ -8,8 +8,9 @@
 
 .header{
     font-family: 'Montserrat', 'sans-serif';
-    margin-bottom: 5%;
-    color:rgb(226, 179, 49);
+    margin-bottom: 3%;
+    /* color:rgb(226, 179, 49); */
+
 }
 
 .react-multi-carousel-list{
@@ -46,4 +47,21 @@
     stroke-width: 0;
     color: rgb(226, 179, 49);
     font-size:50px;
+  }
+
+  @media screen and (max-width: 600px) {
+    .competencies{
+      padding-top:10%;
+      justify-content: center;
+      text-align: center;
+      background-color: whitesmoke;
+      padding-bottom: 10%;
+    }
+
+    .header{
+      font-family: 'Montserrat', 'sans-serif';
+      margin-bottom: 5%;
+      /* color:rgb(226, 179, 49); */
+  
+    }
   }

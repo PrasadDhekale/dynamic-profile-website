@@ -13,9 +13,9 @@ function App() {
     <div className="App">
      <Home/>
      <About/>
+     <Competencies/>
      {content["services"] != undefined  && content["services"]["isEnabled"] ? <Services services={content.services}/> : ""}
      {content["accomplishments"] != undefined  && content["accomplishments"]["isEnabled"] ? <Accomplishments /> : "" }
-     <Competencies/>
      <Contact/> 
      
     </div>

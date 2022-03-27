@@ -14,6 +14,7 @@ const About = (props) => {
              <h1>ABOUT</h1>
              {content.about["about-quote"].isEnabled ? <h3><AboutQuote text={content.about["about-quote"].text}/></h3> : ""}
              <p className={classes["about-content"]}>{content.about["about-descriptors"][0].text}</p>
+             <hr className={classes.hr}></hr>
              
         </div>
     )

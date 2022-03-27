@@ -1,3 +1,56 @@
 .services{
-    display: flex;
+    position: relative;
+    margin-top: 2%;
+    text-align: center;
+    background-image: url(/src/images/law4.png);
+    height:700px;
+    padding:3%;
+    
+}
+
+.header{
+    font-family: 'Montserrat', 'sans-serif';
+    margin-bottom: 2%;
+    color:white;
+    /* color:rgb(226, 179, 49); */
+
+}
+
+.hr{
+    width:50%;
+    border:none;
+    opacity:30% !important;
+    height:1px !important;
+    background-color: #ebc12d;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+.image{
+    height:600px;
+    width:100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.services-col{
+    left:10px;
+    right:10px;
+}
+
+@media screen and (max-width: 600px) {
+    .services{
+        position: relative;
+        margin-top: 2%;
+        text-align: center;
+        background-image: url(/src/images/law4.png);
+        height:1100px;
+        padding:5%;
+    }
+
+    .services-col{
+        left:10px;
+        right:10px;
+        margin-top: 8%;
+    }
 }

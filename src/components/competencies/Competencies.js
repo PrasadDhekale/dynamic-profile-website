@@ -36,7 +36,7 @@ const Competencies = (props) => {
 
     return (
         <div className={classes.competencies}>
-        <RiShieldStarLine className={classes.outline}/>
+        {/* <RiShieldStarLine className={classes.outline}/> */}
             <h1 className={classes.header}> {content.competencies.header}</h1>
             <div>
                 {listOfCompetencyDivs}

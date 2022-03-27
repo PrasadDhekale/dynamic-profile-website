@@ -1,3 +1,31 @@
 .service{
-    padding:5%;
+    padding:1%;
+}
+
+.hr{
+    width:35px;
+    border:none;
+    opacity:100 !important;
+    height:2px !important;
+    background-color: #ebc12d;
+}
+
+.description{
+    padding-right: 30%;
+}
+
+.link{
+    color: #ebc12d;
+    text-decoration: none;
+}
+
+.link:hover{
+    color: #cea616;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 600px) {
+    .description{
+        padding-right: 2%;
+    }
 }

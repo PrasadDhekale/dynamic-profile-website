@@ -12,13 +12,14 @@ import classes from "./contact.module.css";
 function Contact(props) {
     return (
         <div className={classes["contact-content"]}>
-            <div style={{ marginTop: "3rem" }}>
+            <h3 className={classes.header}>Shweta Rajesh Pandey</h3>
+            <div className={classes["contact-icon-panel"]}>
                     <a className={classes['icon-style']} href="https://www.linkedin.com/in/prasad-dhekale-4116a916b/"><BsLinkedin></BsLinkedin></a>
                     <a className={classes['icon-style']} href="mailto:shwetapandey3333@gmail.com"><SiGmail/></a>
                     <a className={classes['icon-style']} href="mailto:shwetapandey3333@gmail.com"><FaFacebookSquare/></a>
             </div>
-            <div className={classes["contact-description"]}>   
-                <p>Phone : 8446913665</p>
+            <div className={classes["contact-description"]}>                   
+                <p>Contact Number : 8446913665</p>
                 <p>Shivaji nagar district court pune</p> 
                 <p>@2022 All rights reserved</p>      
             </div>

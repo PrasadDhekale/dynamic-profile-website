@@ -62,27 +62,47 @@ let content = {
         "list" : [
             {
                 "id":"1",
-                "text":"Litigation",
+                "header" : "Litigation",
+                "text":"She loves to educate her clients and not just defend them during the process.",
                 "backgroundcolor":"#8d1b54",
-                "color" : "white"
+                "color" : "white",
+                "link" : {
+                    "name" : "Read More",
+                    "url" : "abc"
+                }
             },
             {
                 "id":"2",
-                "text":"Counselling",
+                "header" : "Litigation",
+                "text":"Jessica Norman focuses on Canadian immigration law. She has studied at University he loves to educate her clients and not just defend them during the process.",
                 "backgroundcolor":"#548c8d",
-                "color" : "white"
+                "color" : "white",
+                "link" : {
+                    "name" : "Read More",
+                    "url" : "abc"
+                }
             },
             {
                 "id":"3",
-                "text":"Service",
+                "header" : "Litigation",
+                "text":"Jessica Norman focuses on Canadian immigration law. She has studied at University of Toronto and Acadia University, where her passion grew. She loves to educate her clients and not just defend them during the process.",
                 "backgroundcolor":"#353441",
-                "color" : "white"
+                "color" : "white",
+                "link" : {
+                    "name" : "Read More",
+                    "url" : "abc"
+                }
             },
             {
                 "id":"4",
-                "text":"Service",
+                "header" : "Litigation",
+                "text":"Jessica Norman focuses on Canadian immigration law. She has studied at University of Toronto and Acadia University, where her passion grew. She loves to educate her clients and not just defend them during the process.",
                 "backgroundcolor":"brown",
-                "color" : "white"
+                "color" : "white",
+                "link" : {
+                    "name" : "Read More",
+                    "url" : "abc"
+                }
             }
         ]
     }
