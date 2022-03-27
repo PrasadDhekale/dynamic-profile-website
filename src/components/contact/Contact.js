@@ -12,7 +12,7 @@ import classes from "./contact.module.css";
 function Contact(props) {
     return (
         <div className={classes["contact-content"]}>
-            <h4 className={classes.header}>Shweta Rajesh Pandey</h4>
+            <h5 className={classes.header}>Shweta Rajesh Pandey</h5>
             <div className={classes["contact-icon-panel"]}>
                     <a className={classes['icon-style']} href="https://www.linkedin.com/in/prasad-dhekale-4116a916b/"><BsLinkedin></BsLinkedin></a>
                     <a className={classes['icon-style']} href="mailto:shwetapandey3333@gmail.com"><SiGmail/></a>

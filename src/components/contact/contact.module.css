@@ -39,6 +39,7 @@
 
 }
 
+
 @media screen and (max-width : 600px){
     .contact-icon-panel{
         margin-top: 5% !important;
@@ -47,6 +48,7 @@
     .contact-description{
         color : rgb(179, 179, 179);
         margin-top:5%;
+        font-size: 10px;
     }
 
     .header{
