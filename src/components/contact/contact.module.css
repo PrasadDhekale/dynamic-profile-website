@@ -34,7 +34,7 @@
 .header{
     font-family: 'Montserrat', 'sans-serif';
     margin-bottom: 3%;
-    color:white;
+    color:rgba(235, 230, 230, 0.911);
     /* color:rgb(226, 179, 49); */
 
 }
@@ -47,5 +47,14 @@
     .contact-description{
         color : rgb(179, 179, 179);
         margin-top:5%;
+    }
+
+    .header{
+        font-family: 'Montserrat', 'sans-serif';
+        margin-bottom: 3%;
+        margin-top: 10%;
+        color:rgba(235, 230, 230, 0.911);
+        /* color:rgb(226, 179, 49); */
+    
     }
 }
