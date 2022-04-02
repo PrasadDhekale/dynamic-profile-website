@@ -3,7 +3,10 @@ let content = {
     "about": {
         "header": "ABOUT",
         "about-quote": { "text": "Service with Excellence and Integrity", "isEnabled": true },
-        "about-descriptors": [{ "text": "Lets kick off our list of advocate website templates with Zelwn. Landing on ThemeForest in early 2022, its design is both creative and professional. The modern template includes over 25 HTML files and ten full site demos. You can also personalize Zelwn endlessly, with nearly 800 total icons and the included Revolution Slider and MenuZord premium plugins. Its easy to see why we recommend Zelwn over a law firm responsive website template free download.", "isEnabled": true }]
+        "about-descriptors": [{ "text": "With multiple years of practice and having solved mulitple cases with positive outcomes, we here at Shweta Pandey and Associates commit towards quality of service with which we ensure that the best possible solutions are provided to our clients.\
+        Every case is important to us. Shweta Pandey and Associates envisions to provide potential clients with excellent legal advice and counselling that suits their needs. Our \
+         highly-skilled laywers will help you out of the toughest times and guide you through all the court procedures. Whether you have been accused of crime or your child's custody is at stake,\
+         our rightful and a result oriented approach will help you secure justice that you deserve.", "isEnabled": true }]
     },
     "image2": { "image-path": "", "isEnabled": true },
     "competencies": {
